@@ -1,2 +1,3 @@
-# Principios SOLID en C# curso
-Para iniciar el curso debes usar el código de la rama master o de la rama 0-codigobase
+# SOLID PRINCIPLES IN C#
+
+After clone this repository, you can see on /WithoutSOLID some projects which are not implementing SOLID principles, try to implement them on a new folder... You can see the solutions on /ImplementingSOLID
