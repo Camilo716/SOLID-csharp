@@ -4,4 +4,4 @@
 
 - To practice, create a new folder and work on implementing the principles there.
 
-- You can find the solutions in the _/ImplementingSOLID_ folder.
+- You can find the solutions in the _/ImplementingSOLID_ folder (Not yet implemented).
