@@ -1,5 +1,7 @@
 # SOLID PRINCIPLES IN C#
 
-- You can see on _/WithoutSOLID_ some projects which are not implementing SOLID principles
-- Try to implement them on a new folder
-- You can see the solutions on _/ImplementingSOLID_
+- In this repository, you will find several projects in the _/WithoutSOLID_ folder that don't implement the SOLID principles
+
+- To practice, create a new folder and work on implementing the principles there.
+
+- You can find the solutions in the _/ImplementingSOLID_ folder.
